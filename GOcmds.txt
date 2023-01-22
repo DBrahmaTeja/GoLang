@@ -1,0 +1,12 @@
+1. "go mod init filename(hello)"  ~ to (npm init)
+		: creates a folder
+
+2. To run the prog
+	" go run filename(main.go)"
+	: just runs the file doesn't build anything.
+
+
+	Abhibus single 1030
+	Redbus double 2139- 1070
+	redbus single  first code 1035
+	redbus single gpay code  gpsave 1019.5
